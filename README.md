@@ -8,3 +8,4 @@ This is a journey for me to master the C programming language (the best language
 - NO GenAI (I always used AI for code refrences before and this harmed my learning more than benefited it)
 - Ask AI as least as possible (Asking AI for understanding errors. Not for code generation.)
 - NO Sharing Entire Scripts to AI 
+- Cool!
